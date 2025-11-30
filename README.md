@@ -13,7 +13,7 @@ It will check that they are not out of range, of an invalid data type, and that 
 those previously entered. The program will allow the user to correct their mistake. 
 Once the 10 numbers have been picked, the program will generate 20 random numbers in the range of 1-80 
 without any duplicate numbers. The program will report the winning Keno numbers generated, 
-the player’s picks, and which numbers they matched. The program tells the player what they have won (<b>Use table below</b>). 
+the player’s picks, and which numbers they matched. The program tells the player what they have won. 
 <ul>
   <h4>Prizes</h4>
   <li>10 of 20 wins $25,000</li>
@@ -80,6 +80,7 @@ Play another round? (y/n): n
 
 THANKS FOR PLAYING!!
 </b></pre>
+
 
 
 
