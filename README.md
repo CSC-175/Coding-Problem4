@@ -4,7 +4,7 @@
 Keno is a lottery-like gambling game where 20 numbers are randomly selected out of numbers ranging from 1 to 80. 
 Players wager on how many numbers they can match out of the numbers that are randomly generated.
 ## Directions
-Complete the given template which provides the <b>Test4Driver.cpp</b> file and the <b>P4.cpp</b> source files. You will need to complete the implementation of any function that is marked as <b>"implementation of X function goes here"</b> in the comments of <b>P4.cpp</b> source file.
+Complete the given template which provides the <b>Test4Driver.cpp</b> file and the <b>P4.cpp</b> source files. You will need to complete the implementation of any function that is marked as <b>"implementation of X function goes here"</b> in the comments of <b>P4.cpp</b> source file. <b>Note: Make no changes to any other code.</>
 
 ### Program Specification
 The completed program will prompt the user for 10 numbers they will enter to try and match the 20 random 
@@ -80,6 +80,7 @@ Play another round? (y/n): n
 
 THANKS FOR PLAYING!!
 </b></pre>
+
 
 
 
