@@ -29,7 +29,6 @@ The program allows the user to play repeatedly if they would like to continue pl
 
 ### Game Interface Example
 <pre><b>
-  
 Let's Play Keno!
 
 To play Keno, select 10 unique (no repeats) numbers in the range of 1-80.
@@ -82,6 +81,7 @@ Play another round? (y/n): n
 
 THANKS FOR PLAYING!!
 </b></pre>
+
 
 
 
