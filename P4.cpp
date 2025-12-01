@@ -18,7 +18,7 @@ void getPicks(int picks[]) // do not change the code in this function
         {
             error = true;
             cin.clear();
-            cin.sync();
+            cin.ignore(100,'\n');
             cout << "Invalid data input! Try again. ";
         }
         else if (temp > 80)
@@ -79,5 +79,6 @@ int findMatches(int picks[],int winners[],int matches[]){ // assign values that 
 
 void printArr(int arr[],int length){ // print the array passed
     // implementation of printArr function goes here
+
 
 }
